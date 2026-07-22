@@ -4,6 +4,19 @@ Admin panel case study based on several commercial mobile app projects.
 
 The work included web-based admin panels for managing users, products, orders, payments, roles, content and app-specific business logic.
 
+
+## Visual examples
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/a7533f227565267.Y3JvcCwxNjM2LDEyODAsMCww.jpg" alt="Brandi Flo" width="31%">
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/b27ff7236577737.Y3JvcCwyMDQ1LDE2MDAsMCww.png" alt="Elinknest" width="31%">
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/eff494222618009.Y3JvcCwxMzk2LDEwOTEsMCw0MQ.png" alt="Olimp Tickets" width="31%">
+</p>
+
+Representative applications supported by the admin tools described in this case study.
+
+[View my complete visual portfolio on Behance](https://www.behance.net/24512dab)
+
 ---
 
 ## My role
